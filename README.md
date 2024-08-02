@@ -1,2 +1,2 @@
 # kafka-mini-project
-Kafka Mini Project -- Kelompok 1-
+Kafka Mini Project -- Kelompok 10
